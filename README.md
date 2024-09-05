@@ -1,21 +1,21 @@
 # Overview
 This Python script contains several functions and a class that demonstrate basic programming concepts:
 
-# add_numbers(num1, num2): Adds two numbers and returns the result.
+1. Add_numbers(num1, num2): Adds two numbers and returns the result.
 
-# is_even(number): Checks if a number is even and returns True or False.
+2. Is_even(number): Checks if a number is even and returns True or False.
 
-# reverse_string(text): Reverses the given string and returns it.
+3. Reverse_string(text): Reverses the given string and returns it.
 
-# count_vowels(text): Counts the number of vowels in a given string.
+4. Count_vowels(text): Counts the number of vowels in a given string.
 
-# calculate_factorial(n): Computes the factorial of a non-negative integer n.
+5. Calculate_factorial(n): Computes the factorial of a non-negative integer n.
 
-# sort_by_age(people): Sorts a list of tuples (name, age) by age in ascending order.
+6. Sort_by_age(people): Sorts a list of tuples (name, age) by age in ascending order.
 
-# merge_dicts(dict1, dict2): Merges two dictionaries, summing values for common keys.
+7. merge_dicts(dict1, dict2): Merges two dictionaries, summing values for common keys.
 
-# Car class: Defines a Car class with attributes for make, model, and year, and a method to display car information.
+8. Car class: Defines a Car class with attributes for make, model, and year, and a method to display car information.
 
 # Functions
 ## add_numbers(num1, num2)
