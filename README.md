@@ -1,21 +1,21 @@
 # Overview
 This Python script contains several functions and a class that demonstrate basic programming concepts:
 
-#add_numbers(num1, num2): Adds two numbers and returns the result.
+# add_numbers(num1, num2): Adds two numbers and returns the result.
 
-is_even(number): Checks if a number is even and returns True or False.
+# is_even(number): Checks if a number is even and returns True or False.
 
-reverse_string(text): Reverses the given string and returns it.
+# reverse_string(text): Reverses the given string and returns it.
 
-count_vowels(text): Counts the number of vowels in a given string.
+# count_vowels(text): Counts the number of vowels in a given string.
 
-calculate_factorial(n): Computes the factorial of a non-negative integer n.
+# calculate_factorial(n): Computes the factorial of a non-negative integer n.
 
-sort_by_age(people): Sorts a list of tuples (name, age) by age in ascending order.
+# sort_by_age(people): Sorts a list of tuples (name, age) by age in ascending order.
 
-merge_dicts(dict1, dict2): Merges two dictionaries, summing values for common keys.
+# merge_dicts(dict1, dict2): Merges two dictionaries, summing values for common keys.
 
-Car class: Defines a Car class with attributes for make, model, and year, and a method to display car information.
+# Car class: Defines a Car class with attributes for make, model, and year, and a method to display car information.
 
 # Functions
 ## add_numbers(num1, num2)
@@ -98,6 +98,7 @@ print(merge_dicts({"a": 1, "b": 2}, {"b": 3, "c": 4}))  # Output: {'a': 1, 'b': 
 ```
 
 ## Class : car
+```
 
 A class representing a car with make, model, and year attributes.
 
@@ -110,3 +111,4 @@ python code:
 
 my_car = Car("Porsche", "Gt3rs", 2011)
 my_car.display_info()  # Output: Your car's information is: Make- Porsche, Model- Gt3rs, Year- 2011
+```
